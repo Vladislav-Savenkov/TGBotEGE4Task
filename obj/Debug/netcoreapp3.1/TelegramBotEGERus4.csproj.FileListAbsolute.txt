@@ -1,0 +1,17 @@
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\TelegramBotEGERus4.exe
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\TelegramBotEGERus4.deps.json
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\TelegramBotEGERus4.runtimeconfig.json
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\TelegramBotEGERus4.runtimeconfig.dev.json
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\TelegramBotEGERus4.dll
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\TelegramBotEGERus4.pdb
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\Mono.Data.Sqlite.dll
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programming\C#\TelegramBotEGERus4\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.csproj.AssemblyReference.cache
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.AssemblyInfoInputs.cache
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.AssemblyInfo.cs
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.csproj.CopyComplete
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.dll
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.pdb
+D:\Programming\C#\TelegramBotEGERus4\obj\Debug\netcoreapp3.1\TelegramBotEGERus4.genruntimeconfig.cache
